@@ -22,6 +22,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
@@ -29,7 +30,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mprdyi&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mprdyi&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=mprdyi&style=for-the-badge&color=blue)
+
 <!--
 **mprdyi/mprdyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
