@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hai, Saya  Addy
+#  Hai, I'm  Addy
 
 💻 Fullstack Developer  
 🚀 Passionate in Web Development  
@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/addymuhamad_12/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 
 ---
